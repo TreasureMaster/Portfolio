@@ -92,6 +92,9 @@
    - VCS: git (github)
    - документирование: Gitbook
    - ОС: Linux, Windows
+5. примеры небольших проектов лето-осень 2022, созданные на основе одной из GUI на tkinter с PostgreSQL:
+   - RESTful-сервис на Flask/Flask-RESTfl/SQLAlchemy/marshmallow - [ссылка на репо](https://github.com/TreasureMaster/Practice_ch_5678/tree/sqlalchemy)
+   - аналог предыдущего на основе Django (сериализация вручную, без DRF) - [ссылка на репо](https://github.com/TreasureMaster/Practice_estate_register)
 
 ### Ближайшие планы на будущее<a id='4_header'></a>
 
