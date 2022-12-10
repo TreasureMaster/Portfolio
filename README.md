@@ -96,6 +96,9 @@
    - RESTful-сервис на Flask/Flask-RESTfl/SQLAlchemy/marshmallow - [ссылка на репо](https://github.com/TreasureMaster/Practice_ch_5678/tree/sqlalchemy)
    - аналог предыдущего на основе Django (сериализация вручную, без DRF) - [ссылка на репо](https://github.com/TreasureMaster/Practice_estate_register)
 
+> <span style="color:blue">ПРИМЕЧАНИЕ.</span> Не стоит обращать внимание на форки известных проектов.
+> Они сделаны только для создания комментариев на русском к работе этих библиотек. Они не залиты в репо.
+
 ### Ближайшие планы на будущее<a id='4_header'></a>
 
 1. Создание аукциона на основе **Django** (на заказ)
